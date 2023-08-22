@@ -99,6 +99,48 @@ body {
 .thirteenth {
     background-color: rgb(0, 76, 255);
     color: white;
+    align-items: center;
+    padding: 20px 30px;
+    margin: 35px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.fourteenth {
+    background-color: rgb(0, 76, 255);
+    color: white;
+    align-items: center;
+    padding: 20px 30px;
+    margin: 35px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.fourteenth:hover {
+    background-color: darkblue;
+}
+.fifteenth {
+    background-color: rgb(0, 76, 255);
+    color: white;
+    align-items: center;
+    padding: 20px 30px;
+    margin: 35px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.fifteenth:active {
+    background-color: darkblue;
+}
+.sixteenth {
+    background-color: gray;
+    color: white;
+    align-items: center;
+    padding: 20px 30px;
+    margin: 35px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
 }
 
 div .span {
